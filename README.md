@@ -1,2 +1,3 @@
 # gaousrepo-demo
-this is for demo perpose only
+This is for demo perpose only.
+Author - Gaous M Khan
